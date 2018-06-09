@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#500a75</color>
+    <color name="colorPrimaryDark">#460966</color>
+    <color name="colorAccent">#16a727</color>
+
+
+    <color name="white">#ffffff</color>
+    <color name="statuscolor">#21500a75</color>
+
+
+
+
+
+
+    <color name="darkPurple">#500a75</color>
+    <color name="lightPurpleButton">#8311be</color>
+
+    <color name="lightPurpleButtonClicked">#7d0fb6</color>
+    <color name="friendBackgroundColor">#f3e5f5</color>
+</resources>

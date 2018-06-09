@@ -1,0 +1,35 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="zalone.squadup.views.home.status.StatusFragment">
+
+
+    <!--<EditText-->
+        <!--android:id="@+id/status_editsearch"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:hint="Search your squad!"-->
+        <!--android:text=""-->
+        <!--android:inputType="text"-->
+        <!--/>-->
+
+    <android.support.v7.widget.RecyclerView xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/status_fragment_list"
+        android:name="zalone.squadup.views.status.StatusFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="20dp"
+        app:layoutManager="android.support.v7.widget.LinearLayoutManager"
+        tools:context=".views.home.status.StatusFragment"
+        tools:listitem="@layout/fragment_status"
+        />
+
+
+
+</FrameLayout>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "279176369648",
+    "firebase_url": "https://squadup-prod.firebaseio.com",
+    "project_id": "squadup-prod",
+    "storage_bucket": "squadup-prod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279176369648:android:bec55d26cda0c8a4",
+        "android_client_info": {
+          "package_name": "zalone.squadup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279176369648-l1tiduk8lvapfhl9pklbgic3tlrajmuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeawMF48ZhHrZnHPHoPNYCVxeWB_a2_Ns"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
